@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1294px" height="216px" viewBox="0 0 1294 216" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>wave-footer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="233.41578%" cy="220.266392%" fx="233.41578%" fy="220.266392%" r="147.799618%" gradientTransform="translate(2.334158,2.202664),scale(0.166924,1.000000),translate(-2.334158,-2.202664)" id="radialGradient-1">
+            <stop stop-color="#A550F0" offset="0%"></stop>
+            <stop stop-color="#0269FD" offset="2.91250472%"></stop>
+            <stop stop-color="#0369FC" offset="4.5053357%"></stop>
+            <stop stop-color="#A550F0" offset="6.79408482%"></stop>
+            <stop stop-color="#A550F0" offset="25.4821693%"></stop>
+            <stop stop-color="#8843C5" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wave-footer" fill="url(#radialGradient-1)" fill-rule="nonzero">
+            <path d="M0,0 L1294,0 L1294,216 C1078.47689,206.049898 862.975994,201.074847 647.49731,201.074847 C432.018625,201.074847 216.186189,206.049898 0,216 L0,0 Z" id="Image-Hero-Copy" transform="translate(647.000000, 108.000000) scale(-1, 1) rotate(-180.000000) translate(-647.000000, -108.000000) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="123px" height="366px" viewBox="0 0 123 366" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>wave-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0D66F3" offset="0%"></stop>
+            <stop stop-color="#4356BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#A550F0" offset="0%"></stop>
+            <stop stop-color="#7E3ABB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wave-left" transform="translate(-111.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Wave" transform="translate(132.000000, 191.500000) scale(-1, 1) translate(-132.000000, -191.500000) ">
+                <path d="M50.0853565,76.5983757 C107.561887,84.7648528 158.997154,95.0643258 181.313087,107.43174 C225.978483,132.185149 227.250242,200.894841 171.849244,361.273031 C123.892486,249.116812 88.0147441,163.314495 50.0853565,76.5983757 Z" id="wave" fill="url(#linearGradient-2)" transform="translate(132.127204, 218.935703) scale(-1, 1) rotate(23.000000) translate(-132.127204, -218.935703) "></path>
+                <path d="M117.297013,7.09509954 C130.01222,10.6942571 140.421231,14.5167459 147.717462,18.5602921 C177.58821,35.1145583 188.051178,71.3282486 175.134503,141.47236 C156.748318,100.533944 137.350805,52.2769601 117.297013,7.09509954 Z" id="wave" fill="url(#linearGradient-1)" opacity="0.22803442" transform="translate(148.935220, 74.283730) scale(-1, 1) rotate(23.000000) translate(-148.935220, -74.283730) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
